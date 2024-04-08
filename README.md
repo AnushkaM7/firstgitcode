@@ -1,2 +1,3 @@
 # firstgitcode
-practice
+practice more 
+learn more 
